@@ -1,0 +1,167 @@
+body{
+    width: 80%;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2em;
+    color: rgb(38, 35, 35);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Headder{
+    margin-bottom: 0px;
+    background-color:rgb(25, 71, 40) ;
+    padding: 0 10px;
+}
+ .Headder h1{
+    color: white;
+    font-weight: 400px;
+}
+.Headder span{
+    color: rgb(238, 205, 22);
+
+}
+ .Headder  ul {
+   list-style-type: none;
+   padding-left: 30px;
+
+}
+.Headder  ul li{
+    display: inline-block;
+    margin-left: 50px;
+
+
+}
+.Headder div {
+    display: inline-block;
+    
+}
+.Headder  ul li a {
+    text-decoration: none;
+    color: white;
+}
+.Headder  ul li a :hover{
+    color: rgb(238, 205, 22);
+    border-bottom: 1px solid gold;
+
+}
+.banner {
+    margin-top: 0px;
+    height: 400px;
+    background-image: url( BeFunky-photo.jpg);
+    background-size: cover;
+    padding: 10%;
+}
+.banner h2 {
+    color: rgb(238, 205, 22);
+    font-size: 2.7em;
+    }
+    .banner p {
+        color: white;
+        font-size: 1.5em;
+    }
+    .banner button {
+        background-color: rgb(25, 71, 40);
+        width: 150px;
+        height: 50px;
+         color: rgb(238, 205, 22);
+         border: 0px;
+    }
+    a{
+        color: rgb(238, 205, 22); 
+    }
+    .content iframe{
+        float: right;
+        margin: 10px;
+    }
+    .footer {
+        background-color:rgb(25, 71, 40) ;
+        color: white;
+        text-align: center;
+        height: 50px;
+        padding-top: 5px;
+    }
+
+
+
+
+    .open{
+        height: 300px;
+        background-image:url();
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 0%;
+        padding: 10%;
+    }
+    .open h2 {
+        color: rgb(238, 205, 22);
+        font-size: 2.7em;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .open p{
+        color: #fff;
+        font-size: 1.5em;
+    }
+    .open button{
+        background-color: rgb(25, 71, 40);
+        width: 150px;
+        height: 50px;
+        border: 0px;
+        color: rgb(238, 205, 22);
+    }
+    a{
+        text-decoration: none;
+        color:  rgb(202, 172, 1);
+    }
+    .text iframe{
+        float: right;
+        margin:10px;
+    }
+    table, th, td{
+        border: 1px solid black;
+        border-collapse: collapse;
+        background-color: #a1dfa1;  
+    } 
+    video{
+        float: left;
+        margin:10px;
+        
+    }
+    .table{
+        margin-bottom: 28px;
+    }
+    .table p{
+        padding-top: 0%;
+    }
+    .footer{
+        background-color: rgb(25, 71, 40);
+        color: #fff;
+        text-align: center;
+        height: 50px;
+        padding:5px;
+    }
+    
+    .form{
+        width: 60%;
+        margin: auto;
+        background-color: rgb(118, 231, 118);
+        padding: 30px;
+    }
+    input, textarea{
+        width: 95%;
+        height: 34px;
+        border: 0%;
+        border-radius: 10px ;
+        margin-top: 5px;
+        padding: 10px;
+    }
+    
+    textarea{
+        height: 60px;
+    }
+    .submit{
+        background-color: rgb(7, 63, 7);
+        color: #fff;
+    }
+    .map{
+        margin: auto;
+    }
